@@ -13,10 +13,4 @@ save_weigth
 weigth files
 test
 ...
-data_set
-  |
-  |
-  |---junk
-        |
-        |
-        |--xx.jpg
+data_set\junk\xxx.jpg
